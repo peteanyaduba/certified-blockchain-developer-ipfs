@@ -5,9 +5,7 @@ Pre-requisites
 1.  Install Go-lang
 2.  Set the Go path
 
-
-Install the IPFS-Go commandline tool
-
+## Install the IPFS-Go commandline tool
 
 1.  Search for ipfs in google.com
 2.  #### Click on the link 
@@ -80,8 +78,7 @@ Install the IPFS-Go commandline tool
         https://ipfs.io/ipfs/QmabZ1pL9npKXJg8JGdMwQMJo2NCVy9yDVYjhiHK4LTJQH
 
 
-WEB Console
-==============
+## WEB Console
 
 38. #### Interact with the node using the web console
         localhost:5001/webui
@@ -99,8 +96,7 @@ WEB Console
         ipfs files cp /ipfs/QmabZ1pL9npKXJg8JGdMwQMJo2NCVy9yDVYjhiHK4LTJQH /meow.txt
 
 
-Install IPFS-Desktop
-=====================
+## Install IPFS-Desktop
 
 1.  Navigate to ipfs.io/#install
 2.  Scroll down to IPFS Desktop
@@ -124,11 +120,7 @@ Install IPFS-Desktop
 16. The IPFS Desktop application has finished installing. Now, add local site.
 
 
-IPFS Companion
-==================
+## IPFS Companion
 
 1.  #### Use the link below to go to the IPFS Companion page
         https://docs.ipfs.tech/install/ipfs-companion/#prerequisites
-
-
-
