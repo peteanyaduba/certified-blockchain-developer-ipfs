@@ -100,7 +100,8 @@ Pre-requisites
     -   
         meow
 37. View the object on the web browser
-    -   https://ipfs.io/ipfs/QmabZ1pL9npKXJg8JGdMwQMJo2NCVy9yDVYjhiHK4LTJQH
+    -   
+        https://ipfs.io/ipfs/QmabZ1pL9npKXJg8JGdMwQMJo2NCVy9yDVYjhiHK4LTJQH
 
 
 WEB Console
@@ -157,7 +158,8 @@ IPFS Companion
 ==================
 
 1.  Use the link below to go to the IPFS Companion page
-    -   https://docs.ipfs.tech/install/ipfs-companion/#prerequisites
+    -   
+        https://docs.ipfs.tech/install/ipfs-companion/#prerequisites
 
 
 
