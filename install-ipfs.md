@@ -11,7 +11,6 @@ Pre-requisites
 
 1.  Search for ipfs in google.com
 2.  #### Click on the link 
-    --------------------
         https://ipfs.tech
 3.  Click on the Install tab
 4.  The tab re-directs to the installation options
