@@ -130,8 +130,4 @@ IPFS Companion
     -   https://docs.ipfs.tech/install/ipfs-companion/#prerequisites
 
 
-Click on the "IPFS Desktop downloads page" link
-7.  Download the corresponding file  for the OS
-8.  Run the executable file
-
 
