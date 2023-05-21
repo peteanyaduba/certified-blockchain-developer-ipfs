@@ -62,8 +62,15 @@ Pre-requisites
 22. Note the port on which the gateway server is running
 23. Switch back to the original terminal window
 24. Run "ipfs swarm peers" to see the IPFS addresses of your peers:
-    -   ipfs swarm peers
+    -   
+        ipfs swarm peers
 25. The output displays a list of peer addresses
+    -   
+        /ip4/116.202.229.43/udp/44788/quic/p2p/12D3KooWLtc9wTNZrnqmpmDvVz1XC48zWk4kuFAkr3e7835o9H4b
+        /ip4/157.245.90.53/tcp/4001/p2p/QmZqRijAimAmCUjDdSw1bTQFw6BAAxzpLRXKUouMnSdp2g
+        /ip4/207.246.102.156/udp/4001/quic/p2p/12D3KooWParrKq9KMZxe4hhKhqhNyz4dmnsR8xridAwa6Y1MLQtj
+        /ip4/34.67.84.45/tcp/4001/p2p/12D3KooWAZtghTGzhZ7aZhYi2fQnY1eRZRTDpgfgFJmuacCreoGX
+        /ip4/87.117.121.163/tcp/4001/p2p/12D3KooWDEN5aRpdi6KCyP4A9ZP4z7TtyGymkAgG2PNNgBgpm4nQ
 26. Now, fetch a cool picture of a spaceship launch from the network using ipfs cat:
     -   
         ipfs cat /ipfs/QmSgvgwxZGaBLqkGyWemEDqikCqU52XxsYLKtdy3vGZ8uq > ~/Desktop/spaceship-launch.jpg
