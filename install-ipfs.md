@@ -22,6 +22,7 @@ Pre-requisites
 9.  The link loads the "Install IPFS Kubo"
 10. ### Choose the desired OS to download the Go-IPFS. For MAC Silicon, run the following to download
     -   
+        
         curl -O https://dist.ipfs.tech/kubo/v0.20.0/kubo_v0.20.0_darwin-arm64.tar.gz
 11. After download, unizp the file
     - 
