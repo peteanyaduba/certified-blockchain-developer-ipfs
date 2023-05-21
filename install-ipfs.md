@@ -7,7 +7,7 @@ Pre-requisites
 
 
 ### Install the IPFS-Go commandline tool
-=======================
+<hr />
 
 1.  Search for ipfs in google.com
 2.  #### Click on the link 
