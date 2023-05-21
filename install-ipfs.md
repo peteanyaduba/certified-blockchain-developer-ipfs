@@ -27,7 +27,8 @@ Pre-requisites
     - 
         tar -xvzf kubo_v0.20.0_darwin-arm64.tar.gz
 12. Once unzipped, the "kubo" folder appears
-    -   kubo/
+    -   
+        kubo/
         kubo/ipfs
         kubo/install.sh
 13. Navigate to the kubo directory
