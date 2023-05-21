@@ -5,8 +5,8 @@ Pre-requisites
 1.  Install Go-lang
 2.  Set the Go path
 
-
-Install the IPFS-Go commandline tool
+### Install the IPFS-Go commandline tool
+=======================
 
 
 1.  Search for ipfs in google.com
