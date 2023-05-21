@@ -56,7 +56,8 @@ Pre-requisites
     -   
         ipfs daemon
 23. The output displays 
-    -   Gateway server listening on /ip4/127.0.0.1/tcp/8080
+    -   
+        Gateway server listening on /ip4/127.0.0.1/tcp/8080
         Daemon is ready
 22. Note the port on which the gateway server is running
 23. Switch back to the original terminal window
