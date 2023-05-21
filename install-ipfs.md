@@ -94,6 +94,8 @@ Pre-requisites
 42. Navigate back to your original terminal window.
 43. #### Using the CID <CID> obtained when adding meow.txt to the local node in the previous step, copy the files over to the MFS.
         ipfs files cp /ipfs/QmabZ1pL9npKXJg8JGdMwQMJo2NCVy9yDVYjhiHK4LTJQH /meow.txt
+44. Refresh the web console again
+45. The "meow.txt" file can now be seen.
 
 
 ## Install IPFS-Desktop
